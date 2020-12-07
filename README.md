@@ -1,2 +1,2 @@
 # Projects
-notes update 
+Here is projects using HTML ,CSS AND JAVASCRIPT
